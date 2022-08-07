@@ -1,4 +1,4 @@
-disease_group,disease_name,disease_code,act,nsw,nt,qld,sa,tas,vic,wa,start_date,end_date,act_cumulative_sum,nsw_cumulative_sum,nt_cumulative_sum,qld_cumulative_sum,sa_cumulative_sum,tas_cumulative_sum,vic_cumulative_sum,wa_cumulative_sum,aus,aus_total
+disease_group,disease_name,disease_code,act,nsw,nt,qld,sa,tas,vic,wa,start_date,end_date,act_cumulative_sum,nsw_cumulative_sum,nt_cumulative_sum,qld_cumulative_sum,sa_cumulative_sum,tas_cumulative_sum,vic_cumulative_sum,wa_cumulative_sum,aus,aus_cumulative_sum
 Vectorborne diseases,Flavivirus infection (unspecified),1,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vectorborne diseases,Flavivirus infection (unspecified),1,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vectorborne diseases,Flavivirus infection (unspecified),1,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
