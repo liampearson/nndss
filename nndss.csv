@@ -14,6 +14,7 @@ Vectorborne diseases,Flavivirus infection (unspecified),1,0.0,0.0,0,0,0,0.0,0.0,
 Vectorborne diseases,Flavivirus infection (unspecified),1,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,1.0,0,1,0,0.0,0.0,0,0.0,2.0
 Vectorborne diseases,Flavivirus infection (unspecified),1,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,1.0,0,1,0,0.0,0.0,0,0.0,2.0
 Vectorborne diseases,Flavivirus infection (unspecified),1,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,1.0,0,1,0,0.0,0.0,0,0.0,2.0
+Vectorborne diseases,Flavivirus infection (unspecified),1,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,1.0,0,1,0,0.0,0.0,0,0.0,2.0
 Vectorborne diseases,Ross River virus infection,2,0.0,28.0,1,33,4,1.0,4.0,41,2022-01-03,2022-01-16,0.0,28.0,1,33,4,1.0,4.0,41,112.0,112.0
 Vectorborne diseases,Ross River virus infection,2,0.0,60.0,0,54,7,0.0,44.0,42,2022-01-17,2022-01-30,0.0,88.0,1,87,11,1.0,48.0,83,207.0,319.0
 Vectorborne diseases,Ross River virus infection,2,0.0,64.0,8,24,29,0.0,114.0,66,2022-01-31,2022-02-13,0.0,152.0,9,111,40,1.0,162.0,149,305.0,624.0
@@ -29,6 +30,7 @@ Vectorborne diseases,Ross River virus infection,2,0.0,23.0,1,19,1,0.0,5.0,10,202
 Vectorborne diseases,Ross River virus infection,2,0.0,9.0,1,19,2,0.0,4.0,3,2022-06-13,2022-06-26,2.0,425.0,42,515,160,3.0,477.0,413,38.0,2037.0
 Vectorborne diseases,Ross River virus infection,2,0.0,4.0,3,15,1,1.0,3.0,3,2022-06-27,2022-07-10,2.0,429.0,45,530,161,4.0,480.0,416,30.0,2067.0
 Vectorborne diseases,Ross River virus infection,2,0.0,8.0,6,18,1,0.0,0.0,1,2022-07-11,2022-07-24,2.0,437.0,51,548,162,4.0,480.0,417,34.0,2101.0
+Vectorborne diseases,Ross River virus infection,2,0.0,6.0,4,11,0,0.0,2.0,2,2022-07-25,2022-08-07,2.0,443.0,55,559,162,4.0,482.0,419,25.0,2126.0
 Vectorborne diseases,Dengue virus infection,3,0.0,1.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,1.0,0,0,0,0.0,0.0,0,1.0,1.0
 Vectorborne diseases,Dengue virus infection,3,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,1.0,0,0,0,0.0,0.0,0,0.0,1.0
 Vectorborne diseases,Dengue virus infection,3,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,1.0,0,0,0,0.0,0.0,0,0.0,1.0
@@ -44,6 +46,7 @@ Vectorborne diseases,Dengue virus infection,3,0.0,2.0,0,3,0,0.0,3.0,2,2022-05-30
 Vectorborne diseases,Dengue virus infection,3,0.0,4.0,0,1,0,0.0,3.0,2,2022-06-13,2022-06-26,0.0,20.0,0,10,1,1.0,16.0,7,10.0,55.0
 Vectorborne diseases,Dengue virus infection,3,0.0,5.0,0,3,0,0.0,3.0,3,2022-06-27,2022-07-10,0.0,25.0,0,13,1,1.0,19.0,10,14.0,69.0
 Vectorborne diseases,Dengue virus infection,3,0.0,4.0,1,1,1,1.0,3.0,1,2022-07-11,2022-07-24,0.0,29.0,1,14,2,2.0,22.0,11,12.0,81.0
+Vectorborne diseases,Dengue virus infection,3,0.0,4.0,2,1,3,1.0,11.0,3,2022-07-25,2022-08-07,0.0,33.0,3,15,5,3.0,33.0,14,25.0,106.0
 Zoonoses,Brucellosis,4,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Brucellosis,4,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Brucellosis,4,0.0,0.0,0,1,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,1,0,0.0,0.0,0,1.0,1.0
@@ -59,6 +62,7 @@ Zoonoses,Brucellosis,4,0.0,0.0,0,1,0,0.0,0.0,0,2022-05-30,2022-06-12,0.0,1.0,0,3
 Zoonoses,Brucellosis,4,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,1.0,0,3,0,0.0,0.0,0,0.0,4.0
 Zoonoses,Brucellosis,4,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,1.0,0,3,0,0.0,0.0,0,0.0,4.0
 Zoonoses,Brucellosis,4,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,1.0,0,3,0,0.0,0.0,0,0.0,4.0
+Zoonoses,Brucellosis,4,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,1.0,0,3,0,0.0,0.0,0,0.0,4.0
 Gastrointestinal diseases,Campylobacteriosis,5,30.0,337.0,9,274,107,52.0,223.0,137,2022-01-03,2022-01-16,30.0,337.0,9,274,107,52.0,223.0,137,1169.0,1169.0
 Gastrointestinal diseases,Campylobacteriosis,5,25.0,356.0,17,376,105,48.0,188.0,157,2022-01-17,2022-01-30,55.0,693.0,26,650,212,100.0,411.0,294,1272.0,2441.0
 Gastrointestinal diseases,Campylobacteriosis,5,38.0,483.0,8,203,114,42.0,379.0,126,2022-01-31,2022-02-13,93.0,1176.0,34,853,326,142.0,790.0,420,1393.0,3834.0
@@ -74,6 +78,7 @@ Gastrointestinal diseases,Campylobacteriosis,5,17.0,401.0,10,325,98,30.0,92.0,12
 Gastrointestinal diseases,Campylobacteriosis,5,28.0,400.0,12,305,122,34.0,274.0,151,2022-06-13,2022-06-26,327.0,4908.0,151,3892,1314,466.0,3156.0,1538,1326.0,15752.0
 Gastrointestinal diseases,Campylobacteriosis,5,29.0,445.0,11,326,122,42.0,249.0,171,2022-06-27,2022-07-10,356.0,5353.0,162,4218,1436,508.0,3405.0,1709,1395.0,17147.0
 Gastrointestinal diseases,Campylobacteriosis,5,30.0,471.0,9,384,100,21.0,85.0,125,2022-07-11,2022-07-24,386.0,5824.0,171,4602,1536,529.0,3490.0,1834,1225.0,18372.0
+Gastrointestinal diseases,Campylobacteriosis,5,38.0,463.0,13,380,121,29.0,234.0,189,2022-07-25,2022-08-07,424.0,6287.0,184,4982,1657,558.0,3724.0,2023,1467.0,19839.0
 Sexually transmissible infections,Chlamydial infection,7,40.0,536.0,34,527,160,33.0,301.0,398,2022-01-03,2022-01-16,40.0,536.0,34,527,160,33.0,301.0,398,2029.0,2029.0
 Sexually transmissible infections,Chlamydial infection,7,59.0,788.0,4,702,177,50.0,469.0,407,2022-01-17,2022-01-30,99.0,1324.0,38,1229,337,83.0,770.0,805,2656.0,4685.0
 Sexually transmissible infections,Chlamydial infection,7,59.0,875.0,21,540,226,45.0,760.0,465,2022-01-31,2022-02-13,158.0,2199.0,59,1769,563,128.0,1530.0,1270,2991.0,7676.0
@@ -89,6 +94,7 @@ Sexually transmissible infections,Chlamydial infection,7,63.0,1041.0,6,1070,233,
 Sexually transmissible infections,Chlamydial infection,7,57.0,892.0,11,886,242,60.0,495.0,447,2022-06-13,2022-06-26,691.0,11529.0,438,10612,2584,706.0,8340.0,5138,3090.0,40038.0
 Sexually transmissible infections,Chlamydial infection,7,59.0,1046.0,25,922,230,59.0,593.0,442,2022-06-27,2022-07-10,750.0,12575.0,463,11534,2814,765.0,8933.0,5580,3376.0,43414.0
 Sexually transmissible infections,Chlamydial infection,7,53.0,982.0,26,912,202,56.0,614.0,401,2022-07-11,2022-07-24,803.0,13557.0,489,12446,3016,821.0,9547.0,5981,3246.0,46660.0
+Sexually transmissible infections,Chlamydial infection,7,69.0,858.0,41,900,202,53.0,737.0,469,2022-07-25,2022-08-07,872.0,14415.0,530,13346,3218,874.0,10284.0,6450,3329.0,49989.0
 Quarantinable diseases,Cholera,8,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Quarantinable diseases,Cholera,8,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Quarantinable diseases,Cholera,8,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -104,6 +110,7 @@ Gastrointestinal diseases,Cholera,8,0.0,0.0,0,1,0,0.0,0.0,0,2022-05-30,2022-06-1
 Gastrointestinal diseases,Cholera,8,0.0,1.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,1.0,0,1,1,0.0,0.0,0,1.0,3.0
 Gastrointestinal diseases,Cholera,8,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,1.0,0,1,1,0.0,0.0,0,0.0,3.0
 Gastrointestinal diseases,Cholera,8,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,1.0,0,1,1,0.0,0.0,0,0.0,3.0
+Gastrointestinal diseases,Cholera,8,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,1.0,0,1,1,0.0,0.0,0,0.0,3.0
 Vaccine preventable diseases,Diphtheria,9,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Diphtheria,9,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Diphtheria,9,0.0,0.0,0,1,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,1,0,0.0,0.0,0,1.0,1.0
@@ -119,6 +126,7 @@ Vaccine preventable diseases,Diphtheria,9,0.0,0.0,0,0,0,0.0,0.0,0,2022-05-30,202
 Vaccine preventable diseases,Diphtheria,9,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,1.0,0,15,0,0.0,0.0,0,0.0,16.0
 Vaccine preventable diseases,Diphtheria,9,0.0,2.0,0,1,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,3.0,0,16,0,0.0,0.0,0,3.0,19.0
 Vaccine preventable diseases,Diphtheria,9,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,3.0,0,16,0,0.0,0.0,0,0.0,19.0
+Vaccine preventable diseases,Diphtheria,9,0.0,0.0,0,1,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,3.0,0,17,0,0.0,0.0,0,1.0,20.0
 Sexually transmissible infections,Donovanosis,10,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Sexually transmissible infections,Donovanosis,10,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Sexually transmissible infections,Donovanosis,10,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -134,6 +142,7 @@ Sexually transmissible infections,Donovanosis,10,0.0,0.0,0,0,0,0.0,0.0,0,2022-05
 Sexually transmissible infections,Donovanosis,10,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Sexually transmissible infections,Donovanosis,10,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Sexually transmissible infections,Donovanosis,10,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
+Sexually transmissible infections,Donovanosis,10,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Sexually transmissible infections,Gonococcal infection,11,12.0,207.0,23,199,40,8.0,62.0,103,2022-01-03,2022-01-16,12.0,207.0,23,199,40,8.0,62.0,103,654.0,654.0
 Sexually transmissible infections,Gonococcal infection,11,10.0,343.0,6,236,60,9.0,167.0,129,2022-01-17,2022-01-30,22.0,550.0,29,435,100,17.0,229.0,232,960.0,1614.0
 Sexually transmissible infections,Gonococcal infection,11,15.0,303.0,16,235,57,6.0,220.0,106,2022-01-31,2022-02-13,37.0,853.0,45,670,157,23.0,449.0,338,958.0,2572.0
@@ -149,6 +158,7 @@ Sexually transmissible infections,Gonococcal infection,11,13.0,416.0,15,295,68,1
 Sexually transmissible infections,Gonococcal infection,11,15.0,421.0,8,255,67,8.0,60.0,131,2022-06-13,2022-06-26,152.0,4709.0,364,2971,807,128.0,2292.0,1417,965.0,12840.0
 Sexually transmissible infections,Gonococcal infection,11,14.0,422.0,11,242,64,9.0,54.0,140,2022-06-27,2022-07-10,166.0,5131.0,375,3213,871,137.0,2346.0,1557,956.0,13796.0
 Sexually transmissible infections,Gonococcal infection,11,11.0,431.0,27,251,61,14.0,51.0,103,2022-07-11,2022-07-24,177.0,5562.0,402,3464,932,151.0,2397.0,1660,949.0,14745.0
+Sexually transmissible infections,Gonococcal infection,11,21.0,446.0,44,259,66,8.0,88.0,144,2022-07-25,2022-08-07,198.0,6008.0,446,3723,998,159.0,2485.0,1804,1076.0,15821.0
 Vaccine preventable diseases,Haemophilus influenzae type b,12,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Haemophilus influenzae type b,12,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Haemophilus influenzae type b,12,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -164,6 +174,7 @@ Vaccine preventable diseases,Haemophilus influenzae type b,12,0.0,1.0,0,0,0,0.0,
 Vaccine preventable diseases,Haemophilus influenzae type b,12,0.0,0.0,0,0,0,0.0,1.0,0,2022-06-13,2022-06-26,0.0,2.0,0,0,1,0.0,1.0,1,1.0,5.0
 Vaccine preventable diseases,Haemophilus influenzae type b,12,0.0,0.0,1,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,2.0,1,0,1,0.0,1.0,1,1.0,6.0
 Vaccine preventable diseases,Haemophilus influenzae type b,12,0.0,0.0,0,0,0,0.0,0.0,1,2022-07-11,2022-07-24,0.0,2.0,1,0,1,0.0,1.0,2,1.0,7.0
+Vaccine preventable diseases,Haemophilus influenzae type b,12,0.0,0.0,0,0,0,0.0,1.0,0,2022-07-25,2022-08-07,0.0,2.0,1,0,1,0.0,2.0,2,1.0,8.0
 Other notifiable diseases,Legionellosis,15,1.0,9.0,0,1,3,0.0,5.0,5,2022-01-03,2022-01-16,1.0,9.0,0,1,3,0.0,5.0,5,24.0,24.0
 Other notifiable diseases,Legionellosis,15,0.0,7.0,0,2,2,1.0,4.0,2,2022-01-17,2022-01-30,1.0,16.0,0,3,5,1.0,9.0,7,18.0,42.0
 Other notifiable diseases,Legionellosis,15,0.0,5.0,0,3,3,1.0,3.0,1,2022-01-31,2022-02-13,1.0,21.0,0,6,8,2.0,12.0,8,16.0,58.0
@@ -179,6 +190,7 @@ Respiratory diseases,Legionellosis,15,0.0,7.0,0,6,2,0.0,2.0,3,2022-05-30,2022-06
 Respiratory diseases,Legionellosis,15,0.0,3.0,0,4,3,2.0,5.0,1,2022-06-13,2022-06-26,2.0,98.0,1,57,27,7.0,46.0,31,18.0,269.0
 Respiratory diseases,Legionellosis,15,0.0,10.0,0,10,3,0.0,6.0,2,2022-06-27,2022-07-10,2.0,108.0,1,67,30,7.0,52.0,33,31.0,300.0
 Respiratory diseases,Legionellosis,15,0.0,9.0,0,6,0,1.0,2.0,4,2022-07-11,2022-07-24,2.0,117.0,1,73,30,8.0,54.0,37,22.0,322.0
+Respiratory diseases,Legionellosis,15,0.0,2.0,0,4,0,0.0,0.0,3,2022-07-25,2022-08-07,2.0,119.0,1,77,30,8.0,54.0,40,9.0,331.0
 Other notifiable diseases,Leprosy,16,0.0,0.0,0,0,0,0.0,0.0,1,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,1,1.0,1.0
 Other notifiable diseases,Leprosy,16,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,1,0.0,1.0
 Other notifiable diseases,Leprosy,16,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,1,0.0,1.0
@@ -194,6 +206,7 @@ Other notifiable diseases,Leprosy,16,0.0,0.0,0,0,0,0.0,0.0,0,2022-05-30,2022-06-
 Other notifiable diseases,Leprosy,16,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,0.0,1,0.0,1.0
 Other notifiable diseases,Leprosy,16,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,0.0,1,0.0,1.0
 Other notifiable diseases,Leprosy,16,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,0.0,1,0.0,1.0
+Other notifiable diseases,Leprosy,16,0.0,0.0,0,1,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,1,0,0.0,0.0,1,1.0,2.0
 Zoonoses,Leptospirosis,17,0.0,1.0,0,2,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,1.0,0,2,0,0.0,0.0,0,3.0,3.0
 Zoonoses,Leptospirosis,17,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,1.0,0,2,0,0.0,0.0,0,0.0,3.0
 Zoonoses,Leptospirosis,17,0.0,0.0,0,3,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,1.0,0,5,0,0.0,0.0,0,3.0,6.0
@@ -209,6 +222,7 @@ Zoonoses,Leptospirosis,17,0.0,2.0,0,8,0,0.0,0.0,0,2022-05-30,2022-06-12,0.0,9.0,
 Zoonoses,Leptospirosis,17,0.0,3.0,0,5,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,12.0,3,58,1,0.0,0.0,0,8.0,74.0
 Zoonoses,Leptospirosis,17,1.0,1.0,2,12,1,0.0,0.0,0,2022-06-27,2022-07-10,1.0,13.0,5,70,2,0.0,0.0,0,17.0,91.0
 Zoonoses,Leptospirosis,17,0.0,1.0,0,1,0,0.0,0.0,0,2022-07-11,2022-07-24,1.0,14.0,5,71,2,0.0,0.0,0,2.0,93.0
+Zoonoses,Leptospirosis,17,0.0,0.0,0,5,0,0.0,0.0,0,2022-07-25,2022-08-07,1.0,14.0,5,76,2,0.0,0.0,0,5.0,98.0
 Gastrointestinal diseases,Listeriosis,18,0.0,0.0,0,0,1,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,1,0.0,0.0,0,1.0,1.0
 Gastrointestinal diseases,Listeriosis,18,0.0,1.0,0,1,0,0.0,2.0,0,2022-01-17,2022-01-30,0.0,1.0,0,1,1,0.0,2.0,0,4.0,5.0
 Gastrointestinal diseases,Listeriosis,18,0.0,0.0,0,1,0,0.0,2.0,0,2022-01-31,2022-02-13,0.0,1.0,0,2,1,0.0,4.0,0,3.0,8.0
@@ -224,6 +238,7 @@ Gastrointestinal diseases,Listeriosis,18,0.0,1.0,0,1,0,0.0,0.0,0,2022-05-30,2022
 Gastrointestinal diseases,Listeriosis,18,0.0,1.0,1,0,0,0.0,1.0,0,2022-06-13,2022-06-26,0.0,16.0,2,5,1,1.0,13.0,1,3.0,39.0
 Gastrointestinal diseases,Listeriosis,18,0.0,0.0,0,2,0,0.0,1.0,0,2022-06-27,2022-07-10,0.0,16.0,2,7,1,1.0,14.0,1,3.0,42.0
 Gastrointestinal diseases,Listeriosis,18,0.0,3.0,0,0,0,0.0,1.0,1,2022-07-11,2022-07-24,0.0,19.0,2,7,1,1.0,15.0,2,5.0,47.0
+Gastrointestinal diseases,Listeriosis,18,0.0,1.0,0,0,0,1.0,1.0,1,2022-07-25,2022-08-07,0.0,20.0,2,7,1,2.0,16.0,3,4.0,51.0
 Vectorborne diseases,Malaria,20,0.0,0.0,0,0,0,0.0,0.0,1,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,1,1.0,1.0
 Vectorborne diseases,Malaria,20,0.0,1.0,0,0,0,0.0,1.0,1,2022-01-17,2022-01-30,0.0,1.0,0,0,0,0.0,1.0,2,3.0,4.0
 Vectorborne diseases,Malaria,20,1.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,1.0,1.0,0,0,0,0.0,1.0,2,1.0,5.0
@@ -239,6 +254,7 @@ Vectorborne diseases,Malaria,20,0.0,2.0,0,2,0,0.0,0.0,4,2022-05-30,2022-06-12,4.
 Vectorborne diseases,Malaria,20,0.0,1.0,0,1,0,0.0,2.0,0,2022-06-13,2022-06-26,4.0,14.0,3,18,4,0.0,5.0,13,4.0,61.0
 Vectorborne diseases,Malaria,20,1.0,1.0,0,3,0,0.0,3.0,3,2022-06-27,2022-07-10,5.0,15.0,3,21,4,0.0,8.0,16,11.0,72.0
 Vectorborne diseases,Malaria,20,1.0,3.0,0,3,0,0.0,1.0,1,2022-07-11,2022-07-24,6.0,18.0,3,24,4,0.0,9.0,17,9.0,81.0
+Vectorborne diseases,Malaria,20,0.0,2.0,0,3,0,0.0,1.0,0,2022-07-25,2022-08-07,6.0,20.0,3,27,4,0.0,10.0,17,6.0,87.0
 Vaccine preventable diseases,Measles,21,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Measles,21,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Measles,21,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -254,6 +270,7 @@ Vaccine preventable diseases,Measles,21,0.0,0.0,0,0,0,0.0,0.0,0,2022-05-30,2022-
 Vaccine preventable diseases,Measles,21,0.0,0.0,0,0,0,0.0,1.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,1.0,0,1.0,1.0
 Vaccine preventable diseases,Measles,21,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,1.0,0,0.0,1.0
 Vaccine preventable diseases,Measles,21,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,1.0,0,0.0,1.0
+Vaccine preventable diseases,Measles,21,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,0,0.0,1.0,0,0.0,1.0
 Other notifiable diseases,Meningococcal disease (invasive),22,0.0,1.0,0,0,0,0.0,0.0,1,2022-01-03,2022-01-16,0.0,1.0,0,0,0,0.0,0.0,1,2.0,2.0
 Other notifiable diseases,Meningococcal disease (invasive),22,0.0,0.0,0,0,1,0.0,0.0,1,2022-01-17,2022-01-30,0.0,1.0,0,0,1,0.0,0.0,2,2.0,4.0
 Other notifiable diseases,Meningococcal disease (invasive),22,0.0,3.0,0,0,1,0.0,0.0,0,2022-01-31,2022-02-13,0.0,4.0,0,0,2,0.0,0.0,2,4.0,8.0
@@ -269,6 +286,7 @@ Vaccine preventable diseases,Meningococcal disease (invasive),22,0.0,1.0,0,1,0,1
 Vaccine preventable diseases,Meningococcal disease (invasive),22,0.0,0.0,0,2,1,0.0,0.0,1,2022-06-13,2022-06-26,1.0,8.0,0,11,6,1.0,6.0,9,4.0,42.0
 Vaccine preventable diseases,Meningococcal disease (invasive),22,0.0,2.0,0,1,0,0.0,1.0,0,2022-06-27,2022-07-10,1.0,10.0,0,12,6,1.0,7.0,9,4.0,46.0
 Vaccine preventable diseases,Meningococcal disease (invasive),22,0.0,0.0,0,4,2,0.0,0.0,1,2022-07-11,2022-07-24,1.0,10.0,0,16,8,1.0,7.0,10,7.0,53.0
+Vaccine preventable diseases,Meningococcal disease (invasive),22,0.0,7.0,0,2,1,0.0,0.0,0,2022-07-25,2022-08-07,1.0,17.0,0,18,9,1.0,7.0,10,10.0,63.0
 Zoonoses,Ornithosis,23,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Ornithosis,23,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Ornithosis,23,0.0,0.0,0,0,0,0.0,1.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,1.0,0,1.0,1.0
@@ -284,6 +302,7 @@ Zoonoses,Ornithosis,23,0.0,0.0,0,0,0,0.0,0.0,0,2022-05-30,2022-06-12,0.0,1.0,0,1
 Zoonoses,Ornithosis,23,0.0,0.0,0,1,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,1.0,0,2,0,0.0,1.0,0,1.0,4.0
 Zoonoses,Ornithosis,23,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,1.0,0,2,0,0.0,1.0,0,0.0,4.0
 Zoonoses,Ornithosis,23,0.0,1.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,2.0,0,2,0,0.0,1.0,0,1.0,5.0
+Zoonoses,Ornithosis,23,0.0,1.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,3.0,0,2,0,0.0,1.0,0,1.0,6.0
 Vaccine preventable diseases,Pertussis,24,0.0,2.0,0,2,1,0.0,8.0,4,2022-01-03,2022-01-16,0.0,2.0,0,2,1,0.0,8.0,4,17.0,17.0
 Vaccine preventable diseases,Pertussis,24,0.0,1.0,1,4,0,0.0,10.0,1,2022-01-17,2022-01-30,0.0,3.0,1,6,1,0.0,18.0,5,17.0,34.0
 Vaccine preventable diseases,Pertussis,24,0.0,0.0,0,2,0,0.0,16.0,2,2022-01-31,2022-02-13,0.0,3.0,1,8,1,0.0,34.0,7,20.0,54.0
@@ -299,6 +318,7 @@ Respiratory diseases,Pertussis,24,0.0,2.0,0,0,0,0.0,8.0,0,2022-05-30,2022-06-12,
 Respiratory diseases,Pertussis,24,1.0,4.0,0,1,1,0.0,7.0,1,2022-06-13,2022-06-26,3.0,25.0,1,25,12,0.0,128.0,16,15.0,210.0
 Respiratory diseases,Pertussis,24,0.0,1.0,0,3,0,0.0,8.0,0,2022-06-27,2022-07-10,3.0,26.0,1,28,12,0.0,136.0,16,12.0,222.0
 Respiratory diseases,Pertussis,24,0.0,3.0,0,2,1,0.0,9.0,1,2022-07-11,2022-07-24,3.0,29.0,1,30,13,0.0,145.0,17,16.0,238.0
+Respiratory diseases,Pertussis,24,0.0,5.0,0,2,2,0.0,11.0,1,2022-07-25,2022-08-07,3.0,34.0,1,32,15,0.0,156.0,18,21.0,259.0
 Quarantinable diseases,Plague,25,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Quarantinable diseases,Plague,25,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Quarantinable diseases,Plague,25,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -314,6 +334,7 @@ Listed Human diseases,Plague,25,0.0,0.0,0,0,0,0.0,0.0,0,2022-05-30,2022-06-12,0.
 Listed Human diseases,Plague,25,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Listed Human diseases,Plague,25,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Listed Human diseases,Plague,25,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
+Listed Human diseases,Plague,25,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Poliovirus infection,26,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Poliovirus infection,26,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Poliovirus infection,26,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -329,6 +350,7 @@ Vaccine preventable diseases,Poliovirus infection,26,0.0,0.0,0,0,0,0.0,0.0,0,202
 Vaccine preventable diseases,Poliovirus infection,26,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Poliovirus infection,26,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Poliovirus infection,26,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
+Vaccine preventable diseases,Poliovirus infection,26,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Q fever,27,0.0,2.0,0,6,0,0.0,0.0,1,2022-01-03,2022-01-16,0.0,2.0,0,6,0,0.0,0.0,1,9.0,9.0
 Zoonoses,Q fever,27,0.0,2.0,0,3,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,4.0,0,9,0,0.0,0.0,1,5.0,14.0
 Zoonoses,Q fever,27,0.0,2.0,0,9,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,6.0,0,18,0,0.0,0.0,1,11.0,25.0
@@ -344,6 +366,7 @@ Zoonoses,Q fever,27,0.0,6.0,0,7,1,0.0,0.0,1,2022-05-30,2022-06-12,0.0,47.0,0,86,
 Zoonoses,Q fever,27,0.0,3.0,0,4,0,0.0,0.0,1,2022-06-13,2022-06-26,0.0,50.0,0,90,3,0.0,2.0,6,8.0,151.0
 Zoonoses,Q fever,27,0.0,3.0,0,12,0,0.0,0.0,2,2022-06-27,2022-07-10,0.0,53.0,0,102,3,0.0,2.0,8,17.0,168.0
 Zoonoses,Q fever,27,0.0,5.0,0,6,0,0.0,0.0,1,2022-07-11,2022-07-24,0.0,58.0,0,108,3,0.0,2.0,9,12.0,180.0
+Zoonoses,Q fever,27,0.0,4.0,0,6,1,0.0,0.0,0,2022-07-25,2022-08-07,0.0,62.0,0,114,4,0.0,2.0,9,11.0,191.0
 Quarantinable diseases,Rabies,28,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Quarantinable diseases,Rabies,28,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Quarantinable diseases,Rabies,28,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -359,6 +382,7 @@ Zoonoses,Rabies,28,0.0,0.0,0,0,0,0.0,0.0,0,2022-05-30,2022-06-12,0.0,0.0,0,0,0,0
 Zoonoses,Rabies,28,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Rabies,28,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Rabies,28,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
+Zoonoses,Rabies,28,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Rubella,29,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Rubella,29,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Rubella,29,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -374,6 +398,7 @@ Vaccine preventable diseases,Rubella,29,0.0,0.0,0,0,0,0.0,0.0,0,2022-05-30,2022-
 Vaccine preventable diseases,Rubella,29,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,1.0,0,0,0,0.0,0.0,0,0.0,1.0
 Vaccine preventable diseases,Rubella,29,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,1.0,0,0,0,0.0,0.0,0,0.0,1.0
 Vaccine preventable diseases,Rubella,29,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,1.0,0,0,0,0.0,0.0,0,0.0,1.0
+Vaccine preventable diseases,Rubella,29,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,1.0,0,0,0,0.0,0.0,0,0.0,1.0
 Gastrointestinal diseases,Salmonellosis,30,2.0,131.0,15,117,11,5.0,69.0,40,2022-01-03,2022-01-16,2.0,131.0,15,117,11,5.0,69.0,40,390.0,390.0
 Gastrointestinal diseases,Salmonellosis,30,2.0,141.0,14,168,27,7.0,47.0,57,2022-01-17,2022-01-30,4.0,272.0,29,285,38,12.0,116.0,97,463.0,853.0
 Gastrointestinal diseases,Salmonellosis,30,6.0,177.0,15,110,30,16.0,67.0,35,2022-01-31,2022-02-13,10.0,449.0,44,395,68,28.0,183.0,132,456.0,1309.0
@@ -389,6 +414,7 @@ Gastrointestinal diseases,Salmonellosis,30,8.0,105.0,13,105,18,3.0,38.0,20,2022-
 Gastrointestinal diseases,Salmonellosis,30,6.0,73.0,24,92,31,5.0,48.0,35,2022-06-13,2022-06-26,94.0,1723.0,197,2028,295,117.0,816.0,467,314.0,5737.0
 Gastrointestinal diseases,Salmonellosis,30,4.0,82.0,13,73,20,0.0,49.0,20,2022-06-27,2022-07-10,98.0,1805.0,210,2101,315,117.0,865.0,487,261.0,5998.0
 Gastrointestinal diseases,Salmonellosis,30,6.0,74.0,12,60,12,5.0,68.0,26,2022-07-11,2022-07-24,104.0,1879.0,222,2161,327,122.0,933.0,513,263.0,6261.0
+Gastrointestinal diseases,Salmonellosis,30,2.0,97.0,12,60,14,1.0,59.0,15,2022-07-25,2022-08-07,106.0,1976.0,234,2221,341,123.0,992.0,528,260.0,6521.0
 Gastrointestinal diseases,Shigellosis,31,0.0,4.0,5,3,3,0.0,5.0,5,2022-01-03,2022-01-16,0.0,4.0,5,3,3,0.0,5.0,5,25.0,25.0
 Gastrointestinal diseases,Shigellosis,31,0.0,9.0,2,6,1,0.0,3.0,3,2022-01-17,2022-01-30,0.0,13.0,7,9,4,0.0,8.0,8,24.0,49.0
 Gastrointestinal diseases,Shigellosis,31,1.0,8.0,2,1,4,0.0,2.0,2,2022-01-31,2022-02-13,1.0,21.0,9,10,8,0.0,10.0,10,20.0,69.0
@@ -404,6 +430,7 @@ Gastrointestinal diseases,Shigellosis,31,2.0,12.0,1,7,2,0.0,15.0,6,2022-05-30,20
 Gastrointestinal diseases,Shigellosis,31,2.0,21.0,1,9,5,0.0,8.0,5,2022-06-13,2022-06-26,14.0,142.0,36,73,40,2.0,72.0,51,51.0,430.0
 Gastrointestinal diseases,Shigellosis,31,0.0,28.0,4,10,2,1.0,12.0,9,2022-06-27,2022-07-10,14.0,170.0,40,83,42,3.0,84.0,60,66.0,496.0
 Gastrointestinal diseases,Shigellosis,31,0.0,15.0,5,6,0,0.0,9.0,5,2022-07-11,2022-07-24,14.0,185.0,45,89,42,3.0,93.0,65,40.0,536.0
+Gastrointestinal diseases,Shigellosis,31,1.0,22.0,2,9,4,0.0,16.0,9,2022-07-25,2022-08-07,15.0,207.0,47,98,46,3.0,109.0,74,63.0,599.0
 Vaccine preventable diseases,Tetanus,33,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Tetanus,33,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Tetanus,33,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -419,6 +446,7 @@ Vaccine preventable diseases,Tetanus,33,0.0,0.0,0,0,0,0.0,1.0,0,2022-05-30,2022-
 Vaccine preventable diseases,Tetanus,33,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,1,0,0.0,1.0,0,0.0,2.0
 Vaccine preventable diseases,Tetanus,33,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,1,0,0.0,1.0,0,0.0,2.0
 Vaccine preventable diseases,Tetanus,33,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,1,0,0.0,1.0,0,0.0,2.0
+Vaccine preventable diseases,Tetanus,33,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,1,0,0.0,1.0,0,0.0,2.0
 Other notifiable diseases,Tuberculosis,34,0.0,15.0,0,7,0,0.0,6.0,0,2022-01-03,2022-01-16,0.0,15.0,0,7,0,0.0,6.0,0,28.0,28.0
 Other notifiable diseases,Tuberculosis,34,0.0,8.0,1,1,0,0.0,12.0,3,2022-01-17,2022-01-30,0.0,23.0,1,8,0,0.0,18.0,3,25.0,53.0
 Other notifiable diseases,Tuberculosis,34,1.0,12.0,2,6,0,0.0,9.0,6,2022-01-31,2022-02-13,1.0,35.0,3,14,0,0.0,27.0,9,36.0,89.0
@@ -434,6 +462,7 @@ Respiratory diseases,Tuberculosis,34,0.0,18.0,0,8,0,1.0,14.0,7,2022-05-30,2022-0
 Respiratory diseases,Tuberculosis,34,0.0,10.0,0,3,0,0.0,9.0,3,2022-06-13,2022-06-26,3.0,199.0,6,59,1,5.0,144.0,44,25.0,461.0
 Respiratory diseases,Tuberculosis,34,1.0,21.0,0,6,0,0.0,14.0,4,2022-06-27,2022-07-10,4.0,220.0,6,65,1,5.0,158.0,48,46.0,507.0
 Respiratory diseases,Tuberculosis,34,0.0,24.0,0,3,0,0.0,11.0,3,2022-07-11,2022-07-24,4.0,244.0,6,68,1,5.0,169.0,51,41.0,548.0
+Respiratory diseases,Tuberculosis,34,1.0,15.0,0,4,0,0.0,19.0,2,2022-07-25,2022-08-07,5.0,259.0,6,72,1,5.0,188.0,53,41.0,589.0
 Gastrointestinal diseases,Typhoid Fever,35,0.0,1.0,0,1,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,1.0,0,1,0,0.0,0.0,0,2.0,2.0
 Gastrointestinal diseases,Typhoid Fever,35,0.0,0.0,0,1,0,0.0,1.0,0,2022-01-17,2022-01-30,0.0,1.0,0,2,0,0.0,1.0,0,2.0,4.0
 Gastrointestinal diseases,Typhoid Fever,35,0.0,1.0,0,0,1,0.0,2.0,1,2022-01-31,2022-02-13,0.0,2.0,0,2,1,0.0,3.0,1,5.0,9.0
@@ -449,6 +478,7 @@ Gastrointestinal diseases,Typhoid Fever,35,0.0,3.0,1,0,0,0.0,2.0,1,2022-05-30,20
 Gastrointestinal diseases,Typhoid Fever,35,0.0,1.0,0,1,0,0.0,1.0,0,2022-06-13,2022-06-26,4.0,19.0,1,5,4,0.0,29.0,6,3.0,68.0
 Gastrointestinal diseases,Typhoid Fever,35,0.0,4.0,0,0,0,1.0,2.0,0,2022-06-27,2022-07-10,4.0,23.0,1,5,4,1.0,31.0,6,7.0,75.0
 Gastrointestinal diseases,Typhoid Fever,35,0.0,2.0,0,1,0,0.0,3.0,0,2022-07-11,2022-07-24,4.0,25.0,1,6,4,1.0,34.0,6,6.0,81.0
+Gastrointestinal diseases,Typhoid Fever,35,1.0,0.0,0,0,0,0.0,3.0,2,2022-07-25,2022-08-07,5.0,25.0,1,6,4,1.0,37.0,8,6.0,87.0
 Quarantinable diseases,Viral haemorrhagic fever (NEC),36,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Quarantinable diseases,Viral haemorrhagic fever (NEC),36,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Quarantinable diseases,Viral haemorrhagic fever (NEC),36,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -464,6 +494,7 @@ Listed Human diseases,Viral haemorrhagic fever (NEC),36,0.0,0.0,0,0,0,0.0,0.0,0,
 Listed Human diseases,Viral haemorrhagic fever (NEC),36,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Listed Human diseases,Viral haemorrhagic fever (NEC),36,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Listed Human diseases,Viral haemorrhagic fever (NEC),36,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
+Listed Human diseases,Viral haemorrhagic fever (NEC),36,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Gastrointestinal diseases,Hepatitis A,38,0.0,1.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,1.0,0,0,0,0.0,0.0,0,1.0,1.0
 Gastrointestinal diseases,Hepatitis A,38,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,1.0,0,0,0,0.0,0.0,0,0.0,1.0
 Gastrointestinal diseases,Hepatitis A,38,0.0,0.0,0,0,0,0.0,1.0,0,2022-01-31,2022-02-13,0.0,1.0,0,0,0,0.0,1.0,0,1.0,2.0
@@ -479,6 +510,7 @@ Gastrointestinal diseases,Hepatitis A,38,0.0,2.0,0,5,0,1.0,0.0,1,2022-05-30,2022
 Gastrointestinal diseases,Hepatitis A,38,0.0,0.0,0,4,0,0.0,8.0,0,2022-06-13,2022-06-26,0.0,9.0,0,18,0,1.0,22.0,3,12.0,53.0
 Gastrointestinal diseases,Hepatitis A,38,0.0,1.0,0,1,0,0.0,2.0,0,2022-06-27,2022-07-10,0.0,10.0,0,19,0,1.0,24.0,3,4.0,57.0
 Gastrointestinal diseases,Hepatitis A,38,0.0,1.0,0,1,0,0.0,2.0,0,2022-07-11,2022-07-24,0.0,11.0,0,20,0,1.0,26.0,3,4.0,61.0
+Gastrointestinal diseases,Hepatitis A,38,0.0,2.0,1,1,0,0.0,1.0,0,2022-07-25,2022-08-07,0.0,13.0,1,21,0,1.0,27.0,3,5.0,66.0
 Bloodborne diseases,Hepatitis B (newly acquired),39,0.0,0.0,0,2,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,2,0,0.0,0.0,0,2.0,2.0
 Bloodborne diseases,Hepatitis B (newly acquired),39,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,2,0,0.0,0.0,0,0.0,2.0
 Bloodborne diseases,Hepatitis B (newly acquired),39,0.0,0.0,0,1,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,3,0,0.0,0.0,0,1.0,3.0
@@ -494,6 +526,7 @@ Bloodborne diseases,Hepatitis B (newly acquired),39,0.0,0.0,0,1,0,0.0,0.0,0,2022
 Bloodborne diseases,Hepatitis B (newly acquired),39,0.0,0.0,0,2,0,0.0,0.0,0,2022-06-13,2022-06-26,1.0,2.0,0,16,0,0.0,0.0,1,2.0,20.0
 Bloodborne diseases,Hepatitis B (newly acquired),39,0.0,0.0,0,3,0,0.0,0.0,0,2022-06-27,2022-07-10,1.0,2.0,0,19,0,0.0,0.0,1,3.0,23.0
 Bloodborne diseases,Hepatitis B (newly acquired),39,0.0,0.0,0,2,0,0.0,0.0,0,2022-07-11,2022-07-24,1.0,2.0,0,21,0,0.0,0.0,1,2.0,25.0
+Bloodborne diseases,Hepatitis B (newly acquired),39,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,1.0,2.0,0,21,0,0.0,0.0,1,0.0,25.0
 Bloodborne diseases,Hepatitis C (newly acquired),40,0.0,1.0,0,15,0,0.0,0.0,1,2022-01-03,2022-01-16,0.0,1.0,0,15,0,0.0,0.0,1,17.0,17.0
 Bloodborne diseases,Hepatitis C (newly acquired),40,0.0,0.0,0,8,0,0.0,0.0,2,2022-01-17,2022-01-30,0.0,1.0,0,23,0,0.0,0.0,3,10.0,27.0
 Bloodborne diseases,Hepatitis C (newly acquired),40,0.0,0.0,0,20,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,1.0,0,43,0,0.0,0.0,3,20.0,47.0
@@ -509,6 +542,7 @@ Bloodborne diseases,Hepatitis C (newly acquired),40,0.0,1.0,0,15,0,0.0,0.0,2,202
 Bloodborne diseases,Hepatitis C (newly acquired),40,0.0,1.0,0,21,0,0.0,1.0,1,2022-06-13,2022-06-26,0.0,7.0,0,186,3,0.0,4.0,16,24.0,216.0
 Bloodborne diseases,Hepatitis C (newly acquired),40,1.0,0.0,0,10,1,0.0,0.0,2,2022-06-27,2022-07-10,1.0,7.0,0,196,4,0.0,4.0,18,14.0,230.0
 Bloodborne diseases,Hepatitis C (newly acquired),40,2.0,1.0,1,12,0,0.0,0.0,3,2022-07-11,2022-07-24,3.0,8.0,1,208,4,0.0,4.0,21,19.0,249.0
+Bloodborne diseases,Hepatitis C (newly acquired),40,0.0,1.0,0,23,0,0.0,0.0,0,2022-07-25,2022-08-07,3.0,9.0,1,231,4,0.0,4.0,21,24.0,273.0
 Quarantinable diseases,Yellow fever,41,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Quarantinable diseases,Yellow fever,41,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Quarantinable diseases,Yellow fever,41,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -524,6 +558,7 @@ Listed Human diseases,Yellow fever,41,0.0,0.0,0,0,0,0.0,0.0,0,2022-05-30,2022-06
 Listed Human diseases,Yellow fever,41,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Listed Human diseases,Yellow fever,41,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Listed Human diseases,Yellow fever,41,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
+Listed Human diseases,Yellow fever,41,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Mumps,43,0.0,0.0,0,0,1,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,1,0.0,0.0,0,1.0,1.0
 Vaccine preventable diseases,Mumps,43,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,1,0.0,0.0,0,0.0,1.0
 Vaccine preventable diseases,Mumps,43,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,1,0.0,0.0,0,0.0,1.0
@@ -539,6 +574,7 @@ Vaccine preventable diseases,Mumps,43,0.0,0.0,0,0,0,0.0,0.0,0,2022-05-30,2022-06
 Vaccine preventable diseases,Mumps,43,0.0,1.0,0,1,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,3.0,0,5,1,0.0,0.0,1,2.0,10.0
 Vaccine preventable diseases,Mumps,43,0.0,1.0,0,1,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,4.0,0,6,1,0.0,0.0,1,2.0,12.0
 Vaccine preventable diseases,Mumps,43,0.0,0.0,0,1,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,4.0,0,7,1,0.0,0.0,1,1.0,13.0
+Vaccine preventable diseases,Mumps,43,0.0,0.0,0,1,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,4.0,0,8,1,0.0,0.0,1,1.0,14.0
 Gastrointestinal diseases,Botulism,45,0.0,0.0,0,0,1,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,1,0.0,0.0,0,1.0,1.0
 Gastrointestinal diseases,Botulism,45,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,1,0.0,0.0,0,0.0,1.0
 Gastrointestinal diseases,Botulism,45,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,1,0.0,0.0,0,0.0,1.0
@@ -554,6 +590,7 @@ Gastrointestinal diseases,Botulism,45,0.0,0.0,0,0,0,0.0,0.0,0,2022-05-30,2022-06
 Gastrointestinal diseases,Botulism,45,0.0,0.0,0,0,0,0.0,1.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,2,0.0,1.0,0,1.0,3.0
 Gastrointestinal diseases,Botulism,45,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,2,0.0,1.0,0,0.0,3.0
 Gastrointestinal diseases,Botulism,45,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,2,0.0,1.0,0,0.0,3.0
+Gastrointestinal diseases,Botulism,45,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,2,0.0,1.0,0,0.0,3.0
 Vaccine preventable diseases,Rubella congenital,46,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Rubella congenital,46,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Rubella congenital,46,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -569,6 +606,7 @@ Vaccine preventable diseases,Rubella congenital,46,0.0,0.0,0,0,0,0.0,0.0,0,2022-
 Vaccine preventable diseases,Rubella congenital,46,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Rubella congenital,46,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Rubella congenital,46,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
+Vaccine preventable diseases,Rubella congenital,46,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Sexually transmissible infections,Syphilis congenital ,47,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Sexually transmissible infections,Syphilis congenital ,47,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Sexually transmissible infections,Syphilis congenital ,47,0.0,1.0,0,0,0,0.0,0.0,2,2022-01-31,2022-02-13,0.0,1.0,0,0,0,0.0,0.0,2,3.0,3.0
@@ -584,6 +622,7 @@ Sexually transmissible infections,Syphilis congenital ,47,0.0,0.0,1,0,0,0.0,0.0,
 Sexually transmissible infections,Syphilis congenital ,47,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,1.0,2,0,0,0.0,0.0,2,0.0,5.0
 Sexually transmissible infections,Syphilis congenital ,47,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,1.0,2,0,0,0.0,0.0,2,0.0,5.0
 Sexually transmissible infections,Syphilis congenital ,47,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,1.0,2,0,0,0.0,0.0,2,0.0,5.0
+Sexually transmissible infections,Syphilis congenital ,47,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,1.0,2,0,0,0.0,0.0,2,0.0,5.0
 Vectorborne diseases,Barmah Forest virus infection,48,0.0,0.0,0,2,1,0.0,1.0,1,2022-01-03,2022-01-16,0.0,0.0,0,2,1,0.0,1.0,1,5.0,5.0
 Vectorborne diseases,Barmah Forest virus infection,48,0.0,2.0,0,13,0,0.0,0.0,1,2022-01-17,2022-01-30,0.0,2.0,0,15,1,0.0,1.0,2,16.0,21.0
 Vectorborne diseases,Barmah Forest virus infection,48,0.0,3.0,0,7,0,0.0,1.0,0,2022-01-31,2022-02-13,0.0,5.0,0,22,1,0.0,2.0,2,11.0,32.0
@@ -599,6 +638,7 @@ Vectorborne diseases,Barmah Forest virus infection,48,0.0,2.0,0,7,1,0.0,0.0,2,20
 Vectorborne diseases,Barmah Forest virus infection,48,0.0,0.0,0,5,0,0.0,0.0,0,2022-06-13,2022-06-26,1.0,27.0,0,99,2,0.0,3.0,10,5.0,142.0
 Vectorborne diseases,Barmah Forest virus infection,48,0.0,2.0,0,8,0,0.0,0.0,0,2022-06-27,2022-07-10,1.0,29.0,0,107,2,0.0,3.0,10,10.0,152.0
 Vectorborne diseases,Barmah Forest virus infection,48,0.0,0.0,1,8,1,0.0,0.0,0,2022-07-11,2022-07-24,1.0,29.0,1,115,3,0.0,3.0,10,10.0,162.0
+Vectorborne diseases,Barmah Forest virus infection,48,0.0,3.0,0,4,0,0.0,0.0,0,2022-07-25,2022-08-07,1.0,32.0,1,119,3,0.0,3.0,10,7.0,169.0
 Vectorborne diseases,Murray Valley encephalitis virus infection,49,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vectorborne diseases,Murray Valley encephalitis virus infection,49,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vectorborne diseases,Murray Valley encephalitis virus infection,49,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -614,6 +654,7 @@ Vectorborne diseases,Murray Valley encephalitis virus infection,49,0.0,0.0,0,0,0
 Vectorborne diseases,Murray Valley encephalitis virus infection,49,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vectorborne diseases,Murray Valley encephalitis virus infection,49,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vectorborne diseases,Murray Valley encephalitis virus infection,49,0.0,0.0,0,0,0,0.0,0.0,1,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,0.0,1,1.0,1.0
+Vectorborne diseases,Murray Valley encephalitis virus infection,49,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,0,0.0,0.0,1,0.0,1.0
 Bloodborne diseases,Hepatitis D,50,0.0,0.0,0,1,0,1.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,1,0,1.0,0.0,0,2.0,2.0
 Bloodborne diseases,Hepatitis D,50,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,1,0,1.0,0.0,0,0.0,2.0
 Bloodborne diseases,Hepatitis D,50,0.0,1.0,0,0,0,0.0,1.0,1,2022-01-31,2022-02-13,0.0,1.0,0,1,0,1.0,1.0,1,3.0,5.0
@@ -629,6 +670,7 @@ Bloodborne diseases,Hepatitis D,50,0.0,0.0,0,0,0,0.0,0.0,0,2022-05-30,2022-06-12
 Bloodborne diseases,Hepatitis D,50,0.0,2.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,12.0,0,7,1,1.0,4.0,3,2.0,28.0
 Bloodborne diseases,Hepatitis D,50,0.0,1.0,0,1,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,13.0,0,8,1,1.0,4.0,3,2.0,30.0
 Bloodborne diseases,Hepatitis D,50,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,13.0,0,8,1,1.0,4.0,3,0.0,30.0
+Bloodborne diseases,Hepatitis D,50,0.0,1.0,0,0,1,0.0,0.0,1,2022-07-25,2022-08-07,0.0,14.0,0,8,2,1.0,4.0,4,3.0,33.0
 Gastrointestinal diseases,Hepatitis E,51,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Gastrointestinal diseases,Hepatitis E,51,0.0,0.0,0,3,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,3,0,0.0,0.0,0,3.0,3.0
 Gastrointestinal diseases,Hepatitis E,51,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,3,0,0.0,0.0,0,0.0,3.0
@@ -644,6 +686,7 @@ Gastrointestinal diseases,Hepatitis E,51,0.0,0.0,0,0,0,0.0,0.0,0,2022-05-30,2022
 Gastrointestinal diseases,Hepatitis E,51,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,2.0,0,6,0,0.0,0.0,0,0.0,8.0
 Gastrointestinal diseases,Hepatitis E,51,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,2.0,0,6,0,0.0,0.0,0,0.0,8.0
 Gastrointestinal diseases,Hepatitis E,51,0.0,1.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,3.0,0,6,0,0.0,0.0,0,1.0,9.0
+Gastrointestinal diseases,Hepatitis E,51,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,3.0,0,6,0,0.0,0.0,0,0.0,9.0
 Bloodborne diseases,Hepatitis B (unspecified),52,3.0,44.0,0,33,2,0.0,40.0,13,2022-01-03,2022-01-16,3.0,44.0,0,33,2,0.0,40.0,13,135.0,135.0
 Bloodborne diseases,Hepatitis B (unspecified),52,3.0,52.0,0,31,0,0.0,23.0,22,2022-01-17,2022-01-30,6.0,96.0,0,64,2,0.0,63.0,35,131.0,266.0
 Bloodborne diseases,Hepatitis B (unspecified),52,3.0,54.0,0,27,0,2.0,52.0,22,2022-01-31,2022-02-13,9.0,150.0,0,91,2,2.0,115.0,57,160.0,426.0
@@ -659,6 +702,7 @@ Bloodborne diseases,Hepatitis B (unspecified),52,4.0,82.0,0,51,3,4.0,50.0,12,202
 Bloodborne diseases,Hepatitis B (unspecified),52,3.0,83.0,1,52,0,3.0,44.0,18,2022-06-13,2022-06-26,42.0,878.0,1,572,12,29.0,628.0,220,204.0,2382.0
 Bloodborne diseases,Hepatitis B (unspecified),52,3.0,88.0,0,47,1,2.0,35.0,23,2022-06-27,2022-07-10,45.0,966.0,1,619,13,31.0,663.0,243,199.0,2581.0
 Bloodborne diseases,Hepatitis B (unspecified),52,4.0,84.0,0,51,2,1.0,39.0,21,2022-07-11,2022-07-24,49.0,1050.0,1,670,15,32.0,702.0,264,202.0,2783.0
+Bloodborne diseases,Hepatitis B (unspecified),52,7.0,100.0,0,61,2,3.0,49.0,16,2022-07-25,2022-08-07,56.0,1150.0,1,731,17,35.0,751.0,280,238.0,3021.0
 Bloodborne diseases,Hepatitis C (unspecified),53,4.0,46.0,3,35,0,0.0,29.0,27,2022-01-03,2022-01-16,4.0,46.0,3,35,0,0.0,29.0,27,144.0,144.0
 Bloodborne diseases,Hepatitis C (unspecified),53,1.0,58.0,0,53,1,3.0,48.0,31,2022-01-17,2022-01-30,5.0,104.0,3,88,1,3.0,77.0,58,195.0,339.0
 Bloodborne diseases,Hepatitis C (unspecified),53,2.0,69.0,4,36,1,5.0,35.0,30,2022-01-31,2022-02-13,7.0,173.0,7,124,2,8.0,112.0,88,182.0,521.0
@@ -674,6 +718,7 @@ Bloodborne diseases,Hepatitis C (unspecified),53,3.0,94.0,2,73,1,5.0,27.0,25,202
 Bloodborne diseases,Hepatitis C (unspecified),53,3.0,95.0,2,53,2,7.0,32.0,31,2022-06-13,2022-06-26,32.0,1038.0,23,741,11,56.0,526.0,361,225.0,2788.0
 Bloodborne diseases,Hepatitis C (unspecified),53,3.0,93.0,4,58,2,7.0,40.0,41,2022-06-27,2022-07-10,35.0,1131.0,27,799,13,63.0,566.0,402,248.0,3036.0
 Bloodborne diseases,Hepatitis C (unspecified),53,5.0,73.0,4,63,0,7.0,24.0,27,2022-07-11,2022-07-24,40.0,1204.0,31,862,13,70.0,590.0,429,203.0,3239.0
+Bloodborne diseases,Hepatitis C (unspecified),53,7.0,124.0,3,69,0,1.0,35.0,39,2022-07-25,2022-08-07,47.0,1328.0,34,931,13,71.0,625.0,468,278.0,3517.0
 Gastrointestinal diseases,STEC,54,0.0,6.0,0,1,13,0.0,1.0,4,2022-01-03,2022-01-16,0.0,6.0,0,1,13,0.0,1.0,4,25.0,25.0
 Gastrointestinal diseases,STEC,54,0.0,4.0,0,1,7,0.0,4.0,4,2022-01-17,2022-01-30,0.0,10.0,0,2,20,0.0,5.0,8,20.0,45.0
 Gastrointestinal diseases,STEC,54,0.0,7.0,0,2,12,2.0,5.0,11,2022-01-31,2022-02-13,0.0,17.0,0,4,32,2.0,10.0,19,39.0,84.0
@@ -689,6 +734,7 @@ Gastrointestinal diseases,STEC,54,0.0,7.0,0,4,13,2.0,10.0,9,2022-05-30,2022-06-1
 Gastrointestinal diseases,STEC,54,0.0,7.0,0,1,6,0.0,4.0,6,2022-06-13,2022-06-26,0.0,73.0,0,14,130,8.0,69.0,101,24.0,395.0
 Gastrointestinal diseases,STEC,54,0.0,3.0,0,3,13,1.0,6.0,14,2022-06-27,2022-07-10,0.0,76.0,0,17,143,9.0,75.0,115,40.0,435.0
 Gastrointestinal diseases,"STEC""""",54,0.0,1.0,0,1,6,0.0,4.0,6,2022-07-11,2022-07-24,0.0,77.0,0,18,149,9.0,79.0,121,18.0,453.0
+Gastrointestinal diseases,"STEC""""",54,0.0,4.0,0,1,9,1.0,12.0,8,2022-07-25,2022-08-07,0.0,81.0,0,19,158,10.0,91.0,129,35.0,488.0
 Gastrointestinal diseases,Haemolytic uraemic syndrome (HUS),55,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Gastrointestinal diseases,Haemolytic uraemic syndrome (HUS),55,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Gastrointestinal diseases,Haemolytic uraemic syndrome (HUS),55,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -704,6 +750,7 @@ Gastrointestinal diseases,Haemolytic uraemic syndrome (HUS),55,0.0,0.0,0,0,0,0.0
 Gastrointestinal diseases,Haemolytic uraemic syndrome (HUS),55,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,2.0,0,0,0,0.0,0.0,0,0.0,2.0
 Gastrointestinal diseases,Haemolytic uraemic syndrome (HUS),55,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,2.0,0,0,0,0.0,0.0,0,0.0,2.0
 Gastrointestinal diseases,Haemolytic uraemic syndrome (HUS),55,0.0,1.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,3.0,0,0,0,0.0,0.0,0,1.0,3.0
+Gastrointestinal diseases,Haemolytic uraemic syndrome (HUS),55,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,3.0,0,0,0,0.0,0.0,0,0.0,3.0
 Zoonoses,Anthrax,58,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Anthrax,58,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Anthrax,58,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -719,6 +766,7 @@ Zoonoses,Anthrax,58,0.0,0.0,0,0,0,0.0,0.0,0,2022-05-30,2022-06-12,0.0,0.0,0,0,0,
 Zoonoses,Anthrax,58,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Anthrax,58,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Anthrax,58,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
+Zoonoses,Anthrax,58,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vectorborne diseases,Japanese encephalitis virus infection,59,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vectorborne diseases,Japanese encephalitis virus infection,59,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vectorborne diseases,Japanese encephalitis virus infection,59,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -734,6 +782,7 @@ Vectorborne diseases,Japanese encephalitis virus infection**,59,0.0,0.0,0,0,0,0.
 Vectorborne diseases,Japanese encephalitis virus infection**,59,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vectorborne diseases,Japanese encephalitis virus infection**,59,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vectorborne diseases,Japanese encephalitis virus infection**,59,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
+Vectorborne diseases,Japanese encephalitis virus infection**,59,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vectorborne diseases,West Nile/Kunjin virus infection,60,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vectorborne diseases,West Nile/Kunjin virus infection,60,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vectorborne diseases,West Nile/Kunjin virus infection,60,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -749,6 +798,7 @@ Vectorborne diseases,West Nile/Kunjin virus infection,60,0.0,0.0,0,0,0,0.0,0.0,0
 Vectorborne diseases,West Nile/Kunjin virus infection,60,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vectorborne diseases,West Nile/Kunjin virus infection,60,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vectorborne diseases,West Nile/Kunjin virus infection,60,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
+Vectorborne diseases,West Nile/Kunjin virus infection,60,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Gastrointestinal diseases,Cryptosporidiosis,61,0.0,15.0,10,36,5,0.0,4.0,8,2022-01-03,2022-01-16,0.0,15.0,10,36,5,0.0,4.0,8,78.0,78.0
 Gastrointestinal diseases,Cryptosporidiosis,61,0.0,15.0,3,27,2,1.0,7.0,5,2022-01-17,2022-01-30,0.0,30.0,13,63,7,1.0,11.0,13,60.0,138.0
 Gastrointestinal diseases,Cryptosporidiosis,61,2.0,15.0,5,22,5,0.0,8.0,19,2022-01-31,2022-02-13,2.0,45.0,18,85,12,1.0,19.0,32,76.0,214.0
@@ -764,6 +814,7 @@ Gastrointestinal diseases,Cryptosporidiosis,61,1.0,12.0,1,18,6,4.0,12.0,12,2022-
 Gastrointestinal diseases,Cryptosporidiosis,61,0.0,17.0,0,19,8,2.0,14.0,12,2022-06-13,2022-06-26,13.0,219.0,29,304,49,13.0,204.0,172,72.0,1003.0
 Gastrointestinal diseases,Cryptosporidiosis,61,2.0,17.0,0,9,3,2.0,17.0,8,2022-06-27,2022-07-10,15.0,236.0,29,313,52,15.0,221.0,180,58.0,1061.0
 Gastrointestinal diseases,Cryptosporidiosis,61,0.0,13.0,0,22,4,1.0,18.0,4,2022-07-11,2022-07-24,15.0,249.0,29,335,56,16.0,239.0,184,62.0,1123.0
+Gastrointestinal diseases,Cryptosporidiosis,61,0.0,24.0,1,25,2,1.0,16.0,5,2022-07-25,2022-08-07,15.0,273.0,30,360,58,17.0,255.0,189,74.0,1197.0
 Vaccine preventable diseases,Influenza (laboratory confirmed),62,0.0,12.0,0,1,2,0.0,13.0,0,2022-01-03,2022-01-16,0.0,12.0,0,1,2,0.0,13.0,0,28.0,28.0
 Vaccine preventable diseases,Influenza (laboratory confirmed),62,0.0,1.0,0,1,0,0.0,6.0,2,2022-01-17,2022-01-30,0.0,13.0,0,2,2,0.0,19.0,2,10.0,38.0
 Vaccine preventable diseases,Influenza (laboratory confirmed),62,0.0,3.0,0,0,4,0.0,2.0,0,2022-01-31,2022-02-13,0.0,16.0,0,2,6,0.0,21.0,2,9.0,47.0
@@ -779,6 +830,7 @@ Respiratory diseases,Influenza (laboratory confirmed),62,332.0,35296.0,1923,8551
 Respiratory diseases,Influenza (laboratory confirmed),62,350.0,32382.0,972,8600,2544,867.0,5131.0,1891,2022-06-13,2022-06-26,1503.0,90622.0,4296,29170,6340,1551.0,29857.0,2890,52737.0,166229.0
 Respiratory diseases,Influenza (laboratory confirmed),62,248.0,13866.0,320,4579,2130,753.0,1312.0,3576,2022-06-27,2022-07-10,1751.0,104488.0,4616,33749,8470,2304.0,31169.0,6466,26784.0,193013.0
 Respiratory diseases,Influenza (laboratory confirmed),62,135.0,4310.0,83,2135,1248,291.0,475.0,2897,2022-07-11,2022-07-24,1886.0,108798.0,4699,35884,9718,2595.0,31644.0,9363,11574.0,204587.0
+Respiratory diseases,Influenza (laboratory confirmed),62,46.0,2177.0,23,1139,701,62.0,300.0,1719,2022-07-25,2022-08-07,1932.0,110975.0,4722,37023,10419,2657.0,31944.0,11082,6167.0,210754.0
 Zoonoses,Australian bat lyssavirus infection,63,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Australian bat lyssavirus infection,63,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Australian bat lyssavirus infection,63,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -794,6 +846,7 @@ Zoonoses,Australian bat lyssavirus infection,63,0.0,0.0,0,0,0,0.0,0.0,0,2022-05-
 Zoonoses,Australian bat lyssavirus infection,63,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Australian bat lyssavirus infection,63,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Australian bat lyssavirus infection,63,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
+Zoonoses,Australian bat lyssavirus infection,63,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Lyssavirus infection (NEC),64,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Lyssavirus infection (NEC),64,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Lyssavirus infection (NEC),64,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -809,6 +862,7 @@ Zoonoses,Lyssavirus infection (NEC),64,0.0,0.0,0,0,0,0.0,0.0,0,2022-05-30,2022-0
 Zoonoses,Lyssavirus infection (NEC),64,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Lyssavirus infection (NEC),64,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Lyssavirus infection (NEC),64,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
+Zoonoses,Lyssavirus infection (NEC),64,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Pneumococcal disease (invasive),65,1.0,11.0,3,5,8,1.0,11.0,4,2022-01-03,2022-01-16,1.0,11.0,3,5,8,1.0,11.0,4,44.0,44.0
 Vaccine preventable diseases,Pneumococcal disease (invasive),65,0.0,6.0,1,2,3,0.0,9.0,4,2022-01-17,2022-01-30,1.0,17.0,4,7,11,1.0,20.0,8,25.0,69.0
 Vaccine preventable diseases,Pneumococcal disease (invasive),65,0.0,5.0,0,4,3,0.0,13.0,2,2022-01-31,2022-02-13,1.0,22.0,4,11,14,1.0,33.0,10,27.0,96.0
@@ -824,6 +878,7 @@ Vaccine preventable diseases,Pneumococcal disease (invasive),65,3.0,27.0,4,25,3,
 Vaccine preventable diseases,Pneumococcal disease (invasive),65,1.0,40.0,6,24,13,1.0,33.0,13,2022-06-13,2022-06-26,8.0,183.0,30,118,61,4.0,163.0,77,131.0,644.0
 Vaccine preventable diseases,Pneumococcal disease (invasive),65,1.0,43.0,2,30,9,0.0,36.0,13,2022-06-27,2022-07-10,9.0,226.0,32,148,70,4.0,199.0,90,134.0,778.0
 Vaccine preventable diseases,Pneumococcal disease (invasive),65,0.0,40.0,5,28,6,1.0,29.0,24,2022-07-11,2022-07-24,9.0,266.0,37,176,76,5.0,228.0,114,133.0,911.0
+Vaccine preventable diseases,Pneumococcal disease (invasive),65,1.0,28.0,4,16,13,1.0,19.0,11,2022-07-25,2022-08-07,10.0,294.0,41,192,89,6.0,247.0,125,93.0,1004.0
 Sexually transmissible infections,Syphilis < 2 years,66,0.0,15.0,3,18,6,0.0,27.0,40,2022-01-03,2022-01-16,0.0,15.0,3,18,6,0.0,27.0,40,109.0,109.0
 Sexually transmissible infections,Syphilis < 2 years,66,0.0,34.0,8,37,9,0.0,41.0,27,2022-01-17,2022-01-30,0.0,49.0,11,55,15,0.0,68.0,67,156.0,265.0
 Sexually transmissible infections,Syphilis < 2 years,66,0.0,39.0,3,24,8,0.0,56.0,24,2022-01-31,2022-02-13,0.0,88.0,14,79,23,0.0,124.0,91,154.0,419.0
@@ -839,6 +894,7 @@ Sexually transmissible infections,Syphilis < 2 years,66,0.0,54.0,12,38,8,0.0,72.
 Sexually transmissible infections,Syphilis < 2 years,66,1.0,59.0,8,31,7,0.0,62.0,35,2022-06-13,2022-06-26,6.0,509.0,83,389,84,1.0,702.0,346,203.0,2120.0
 Sexually transmissible infections,Syphilis < 2 years,66,4.0,53.0,7,51,14,3.0,58.0,36,2022-06-27,2022-07-10,10.0,562.0,90,440,98,4.0,760.0,382,226.0,2346.0
 Sexually transmissible infections,Syphilis < 2 years,66,1.0,45.0,10,27,11,3.0,76.0,26,2022-07-11,2022-07-24,11.0,607.0,100,467,109,7.0,836.0,408,199.0,2545.0
+Sexually transmissible infections,Syphilis < 2 years,66,3.0,64.0,7,22,9,2.0,69.0,27,2022-07-25,2022-08-07,14.0,671.0,107,489,118,9.0,905.0,435,203.0,2748.0
 Sexually transmissible infections,Syphilis > 2 years or unspecified duration,67,0.0,0.0,4,2,2,0.0,24.0,2,2022-01-03,2022-01-16,0.0,0.0,4,2,2,0.0,24.0,2,34.0,34.0
 Sexually transmissible infections,Syphilis > 2 years or unspecified duration,67,0.0,2.0,0,0,3,0.0,27.0,1,2022-01-17,2022-01-30,0.0,2.0,4,2,5,0.0,51.0,3,33.0,67.0
 Sexually transmissible infections,Syphilis > 2 years or unspecified duration,67,1.0,4.0,0,0,3,0.0,44.0,5,2022-01-31,2022-02-13,1.0,6.0,4,2,8,0.0,95.0,8,57.0,124.0
@@ -854,6 +910,7 @@ Sexually transmissible infections,Syphilis > 2 years or unspecified duration,67,
 Sexually transmissible infections,Syphilis > 2 years or unspecified duration,67,1.0,3.0,5,9,1,0.0,34.0,8,2022-06-13,2022-06-26,2.0,50.0,22,54,20,7.0,460.0,71,61.0,686.0
 Sexually transmissible infections,Syphilis > 2 years or unspecified duration,67,0.0,9.0,2,8,2,1.0,42.0,8,2022-06-27,2022-07-10,2.0,59.0,24,62,22,8.0,502.0,79,72.0,758.0
 Sexually transmissible infections,Syphilis > 2 years or unspecified duration,67,1.0,1.0,1,1,1,1.0,43.0,1,2022-07-11,2022-07-24,3.0,60.0,25,63,23,9.0,545.0,80,50.0,808.0
+Sexually transmissible infections,Syphilis > 2 years or unspecified duration,67,0.0,4.0,1,4,3,1.0,34.0,8,2022-07-25,2022-08-07,3.0,64.0,26,67,26,10.0,579.0,88,55.0,863.0
 Quarantinable diseases,Smallpox,69,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Quarantinable diseases,Smallpox,69,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Quarantinable diseases,Smallpox,69,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -869,6 +926,7 @@ Listed Human diseases,Smallpox,69,0.0,0.0,0,0,0,0.0,0.0,0,2022-05-30,2022-06-12,
 Listed Human diseases,Smallpox,69,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Listed Human diseases,Smallpox,69,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Listed Human diseases,Smallpox,69,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
+Listed Human diseases,Smallpox,69,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Tularaemia,70,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Tularaemia,70,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Tularaemia,70,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -884,6 +942,7 @@ Zoonoses,Tularaemia,70,0.0,0.0,0,0,0,0.0,0.0,0,2022-05-30,2022-06-12,0.0,0.0,0,0
 Zoonoses,Tularaemia,70,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Tularaemia,70,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Zoonoses,Tularaemia,70,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
+Zoonoses,Tularaemia,70,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Quarantinable diseases,Severe acute respiratory syndrome (SARS),71,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Quarantinable diseases,Severe acute respiratory syndrome (SARS),71,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Quarantinable diseases,Severe acute respiratory syndrome (SARS),71,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -899,6 +958,7 @@ Listed Human diseases,Severe acute respiratory syndrome (SARS),71,0.0,0.0,0,0,0,
 Listed Human diseases,Severe acute respiratory syndrome (SARS),71,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Listed Human diseases,Severe acute respiratory syndrome (SARS),71,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Listed Human diseases,Severe acute respiratory syndrome (SARS),71,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
+Listed Human diseases,Severe acute respiratory syndrome (SARS),71,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Varicella zoster (chickenpox),73,4.0,,3,0,7,1.0,19.0,6,2022-01-03,2022-01-16,4.0,,3,0,7,1.0,19.0,6,40.0,40.0
 Vaccine preventable diseases,Varicella zoster (chickenpox),73,2.0,,0,0,2,0.0,16.0,6,2022-01-17,2022-01-30,6.0,,3,0,9,1.0,35.0,12,26.0,66.0
 Vaccine preventable diseases,Varicella zoster (chickenpox),73,2.0,,0,1,5,2.0,6.0,16,2022-01-31,2022-02-13,8.0,,3,1,14,3.0,41.0,28,32.0,98.0
@@ -914,6 +974,7 @@ Vaccine preventable diseases,Varicella zoster (chickenpox),73,5.0,,2,1,6,1.0,10.
 Vaccine preventable diseases,Varicella zoster (chickenpox),73,4.0,,2,0,5,2.0,5.0,13,2022-06-13,2022-06-26,53.0,,17,12,90,14.0,138.0,139,31.0,463.0
 Vaccine preventable diseases,Varicella zoster (chickenpox),73,9.0,,4,0,9,0.0,9.0,15,2022-06-27,2022-07-10,62.0,,21,12,99,14.0,147.0,154,46.0,509.0
 Vaccine preventable diseases,Varicella zoster (chickenpox),73,6.0,,1,2,9,0.0,16.0,13,2022-07-11,2022-07-24,68.0,,22,14,108,14.0,163.0,167,47.0,556.0
+Vaccine preventable diseases,Varicella zoster (chickenpox),73,3.0,,2,2,6,1.0,14.0,14,2022-07-25,2022-08-07,71.0,,24,16,114,15.0,177.0,181,42.0,598.0
 Vaccine preventable diseases,Varicella zoster (shingles),74,20.0,,17,10,75,11.0,32.0,44,2022-01-03,2022-01-16,20.0,,17,10,75,11.0,32.0,44,209.0,209.0
 Vaccine preventable diseases,Varicella zoster (shingles),74,23.0,,13,9,76,9.0,41.0,52,2022-01-17,2022-01-30,43.0,,30,19,151,20.0,73.0,96,223.0,432.0
 Vaccine preventable diseases,Varicella zoster (shingles),74,20.0,,14,5,89,12.0,58.0,100,2022-01-31,2022-02-13,63.0,,44,24,240,32.0,131.0,196,298.0,730.0
@@ -929,6 +990,7 @@ Vaccine preventable diseases,Varicella zoster (shingles),74,26.0,,16,11,58,8.0,4
 Vaccine preventable diseases,Varicella zoster (shingles),74,20.0,,12,9,61,13.0,33.0,82,2022-06-13,2022-06-26,260.0,,145,114,904,145.0,576.0,872,230.0,3016.0
 Vaccine preventable diseases,Varicella zoster (shingles),74,18.0,,13,15,76,13.0,31.0,78,2022-06-27,2022-07-10,278.0,,158,129,980,158.0,607.0,950,244.0,3260.0
 Vaccine preventable diseases,Varicella zoster (shingles),74,20.0,,7,14,69,21.0,28.0,70,2022-07-11,2022-07-24,298.0,,165,143,1049,179.0,635.0,1020,229.0,3489.0
+Vaccine preventable diseases,Varicella zoster (shingles),74,23.0,,11,13,84,18.0,36.0,79,2022-07-25,2022-08-07,321.0,,176,156,1133,197.0,671.0,1099,264.0,3753.0
 Vaccine preventable diseases,Varicella zoster (unspecified),75,2.0,,4,293,59,21.0,159.0,123,2022-01-03,2022-01-16,2.0,,4,293,59,21.0,159.0,123,661.0,661.0
 Vaccine preventable diseases,Varicella zoster (unspecified),75,7.0,,8,309,37,21.0,176.0,162,2022-01-17,2022-01-30,9.0,,12,602,96,42.0,335.0,285,720.0,1381.0
 Vaccine preventable diseases,Varicella zoster (unspecified),75,1.0,,4,199,47,19.0,315.0,125,2022-01-31,2022-02-13,10.0,,16,801,143,61.0,650.0,410,710.0,2091.0
@@ -944,6 +1006,7 @@ Vaccine preventable diseases,Varicella zoster (unspecified),75,2.0,,5,360,61,17.
 Vaccine preventable diseases,Varicella zoster (unspecified),75,2.0,,6,332,52,12.0,1.0,105,2022-06-13,2022-06-26,28.0,,59,4053,598,228.0,2630.0,1481,510.0,9077.0
 Vaccine preventable diseases,Varicella zoster (unspecified),75,4.0,,1,302,32,8.0,20.0,71,2022-06-27,2022-07-10,32.0,,60,4355,630,236.0,2650.0,1552,438.0,9515.0
 Vaccine preventable diseases,Varicella zoster (unspecified),75,6.0,,2,352,42,12.0,6.0,86,2022-07-11,2022-07-24,38.0,,62,4707,672,248.0,2656.0,1638,506.0,10021.0
+Vaccine preventable diseases,Varicella zoster (unspecified),75,2.0,,10,393,24,14.0,85.0,111,2022-07-25,2022-08-07,40.0,,72,5100,696,262.0,2741.0,1749,639.0,10660.0
 Quarantinable diseases,Avian influenza in humans (AIH),76,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Quarantinable diseases,Avian influenza in humans (AIH),76,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Quarantinable diseases,Avian influenza in humans (AIH),76,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -959,6 +1022,7 @@ Listed Human diseases,Avian influenza in humans (AIH),76,0.0,0.0,0,0,0,0.0,0.0,0
 Listed Human diseases,Avian influenza in humans (AIH),76,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Listed Human diseases,Avian influenza in humans (AIH),76,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Listed Human diseases,Avian influenza in humans (AIH),76,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
+Listed Human diseases,Avian influenza in humans (AIH),76,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vaccine preventable diseases,Rotavirus,77,0.0,5.0,4,22,89,2.0,8.0,31,2022-01-03,2022-01-16,0.0,5.0,4,22,89,2.0,8.0,31,161.0,161.0
 Vaccine preventable diseases,Rotavirus,77,0.0,5.0,0,25,26,3.0,7.0,18,2022-01-17,2022-01-30,0.0,10.0,4,47,115,5.0,15.0,49,84.0,245.0
 Vaccine preventable diseases,Rotavirus,77,1.0,15.0,0,12,15,2.0,6.0,14,2022-01-31,2022-02-13,1.0,25.0,4,59,130,7.0,21.0,63,65.0,310.0
@@ -974,6 +1038,7 @@ Vaccine preventable diseases,Rotavirus,77,0.0,16.0,0,16,16,0.0,2.0,3,2022-05-30,
 Vaccine preventable diseases,Rotavirus,77,2.0,18.0,2,34,16,2.0,3.0,5,2022-06-13,2022-06-26,5.0,174.0,12,279,262,15.0,70.0,149,82.0,966.0
 Vaccine preventable diseases,Rotavirus,77,0.0,20.0,1,37,12,1.0,4.0,6,2022-06-27,2022-07-10,5.0,194.0,13,316,274,16.0,74.0,155,81.0,1047.0
 Vaccine preventable diseases,Rotavirus,77,0.0,28.0,3,48,12,1.0,3.0,6,2022-07-11,2022-07-24,5.0,222.0,16,364,286,17.0,77.0,161,101.0,1148.0
+Vaccine preventable diseases,Rotavirus,77,0.0,25.0,1,72,15,3.0,16.0,12,2022-07-25,2022-08-07,5.0,247.0,17,436,301,20.0,93.0,173,144.0,1292.0
 Vectorborne diseases,Chikungunya virus infection,78,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Vectorborne diseases,Chikungunya virus infection,78,0.0,0.0,0,2,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,2,0,0.0,0.0,0,2.0,2.0
 Vectorborne diseases,Chikungunya virus infection,78,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,2,0,0.0,0.0,0,0.0,2.0
@@ -989,6 +1054,7 @@ Vectorborne diseases,Chikungunya virus infection,78,0.0,0.0,0,0,0,0.0,0.0,0,2022
 Vectorborne diseases,Chikungunya virus infection,78,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,2.0,0,3,1,1.0,0.0,2,0.0,9.0
 Vectorborne diseases,Chikungunya virus infection,78,0.0,0.0,0,1,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,2.0,0,4,1,1.0,0.0,2,1.0,10.0
 Vectorborne diseases,Chikungunya virus infection,78,0.0,0.0,1,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,2.0,1,4,1,1.0,0.0,2,1.0,11.0
+Vectorborne diseases,Chikungunya virus infection,78,0.0,0.0,0,0,0,0.0,0.0,1,2022-07-25,2022-08-07,0.0,2.0,1,4,1,1.0,0.0,3,1.0,12.0
 Quarantinable diseases,Middle East respiratory syndrome coronavirus (MERS-CoV),79,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Quarantinable diseases,Middle East respiratory syndrome coronavirus (MERS-CoV),79,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Quarantinable diseases,Middle East respiratory syndrome coronavirus (MERS-CoV),79,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
@@ -1004,6 +1070,7 @@ Listed Human diseases,Middle East respiratory syndrome coronavirus (MERS-CoV),79
 Listed Human diseases,Middle East respiratory syndrome coronavirus (MERS-CoV),79,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-13,2022-06-26,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Listed Human diseases,Middle East respiratory syndrome coronavirus (MERS-CoV),79,0.0,0.0,0,0,0,0.0,0.0,0,2022-06-27,2022-07-10,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Listed Human diseases,Middle East respiratory syndrome coronavirus (MERS-CoV),79,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-11,2022-07-24,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
+Listed Human diseases,Middle East respiratory syndrome coronavirus (MERS-CoV),79,0.0,0.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0
 Gastrointestinal diseases,Paratyphoid,80,0.0,0.0,0,0,0,0.0,1.0,0,2022-01-03,2022-01-16,0.0,0.0,0,0,0,0.0,1.0,0,1.0,1.0
 Gastrointestinal diseases,Paratyphoid,80,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-17,2022-01-30,0.0,0.0,0,0,0,0.0,1.0,0,0.0,1.0
 Gastrointestinal diseases,Paratyphoid,80,0.0,0.0,0,0,0,0.0,0.0,0,2022-01-31,2022-02-13,0.0,0.0,0,0,0,0.0,1.0,0,0.0,1.0
@@ -1019,6 +1086,7 @@ Gastrointestinal diseases,Paratyphoid,80,1.0,0.0,0,0,0,0.0,0.0,0,2022-05-30,2022
 Gastrointestinal diseases,Paratyphoid,80,0.0,0.0,0,0,0,0.0,2.0,0,2022-06-13,2022-06-26,2.0,5.0,0,2,1,0.0,8.0,0,2.0,18.0
 Gastrointestinal diseases,Paratyphoid,80,0.0,1.0,0,0,1,0.0,1.0,0,2022-06-27,2022-07-10,2.0,6.0,0,2,2,0.0,9.0,0,3.0,21.0
 Gastrointestinal diseases,Paratyphoid,80,0.0,2.0,0,0,0,0.0,2.0,0,2022-07-11,2022-07-24,2.0,8.0,0,2,2,0.0,11.0,0,4.0,25.0
+Gastrointestinal diseases,Paratyphoid,80,0.0,1.0,0,0,0,0.0,0.0,0,2022-07-25,2022-08-07,2.0,9.0,0,2,2,0.0,11.0,0,1.0,26.0
 Quarantinable diseases,COVID-19,81,16815.0,319446.0,1356,151892,49600,8360.0,266745.0,95,2022-01-03,2022-01-16,16815.0,319446.0,1356,151892,49600,8360.0,266745.0,95,814309.0,814309.0
 Quarantinable diseases,COVID-19,81,6397.0,233401.0,2,113848,25033,3595.0,103112.0,16,2022-01-17,2022-01-30,23212.0,552847.0,1358,265740,74633,11955.0,369857.0,111,485404.0,1299713.0
 Quarantinable diseases,COVID-19,81,3418.0,132053.0,15881,48954,15711,2129.0,51975.0,642,2022-01-31,2022-02-13,26630.0,684900.0,17239,314694,90344,14084.0,421832.0,753,270763.0,1570476.0
@@ -1034,6 +1102,7 @@ Listed Human diseases,COVID-19,81,9904.0,93361.0,354,14396,37116,1537.0,50735.0,
 Listed Human diseases,COVID-19,81,13016.0,109461.0,487,14140,34769,1941.0,28959.0,88783,2022-06-13,2022-06-26,114179.0,2267212.0,42972,565453,539648,42112.0,965199.0,521464,291556.0,5058239.0
 Listed Human diseases,COVID-19,81,17356.0,149520.0,573,17343,44132,3092.0,118499.0,6454,2022-06-27,2022-07-10,131535.0,2416732.0,43545,582796,583780,45204.0,1083698.0,527918,356969.0,5415208.0
 Listed Human diseases,COVID-19,81,14937.0,178493.0,723,24488,61391,4039.0,155649.0,80432,2022-07-11,2022-07-24,146472.0,2595225.0,44268,607284,645171,49243.0,1239347.0,608350,520152.0,5935360.0
+Listed Human diseases,COVID-19,81,10251.0,177916.0,579,37463,39603,2135.0,103750.0,51234,2022-07-25,2022-08-07,156723.0,2773141.0,44847,644747,684774,51378.0,1343097.0,659584,422931.0,6358291.0
 Other notifiable diseases,iGAS,82,,,4,13,1,,,7,2022-01-03,2022-01-16,,,4,13,1,,,7,25.0,25.0
 Other notifiable diseases,iGAS^,82,,,0,5,6,,,3,2022-01-17,2022-01-30,,,4,18,7,,,10,14.0,39.0
 Other notifiable diseases,iGAS^,82,,,1,6,4,,,6,2022-01-31,2022-02-13,,,5,24,11,,,16,17.0,56.0
@@ -1049,6 +1118,7 @@ Other notifiable diseases,iGAS^,82,0.0,,2,16,1,,,4,2022-05-30,2022-06-12,0.0,,31
 Other notifiable diseases,iGAS^,82,0.0,,5,20,3,,,9,2022-06-13,2022-06-26,0.0,,36,154,39,,,74,37.0,303.0
 Other notifiable diseases,iGAS^,82,0.0,,2,17,1,0.0,2.0,10,2022-06-27,2022-07-10,0.0,,38,171,40,0.0,2.0,84,32.0,335.0
 Other notifiable diseases,iGAS,82,0.0,,3,17,5,0.0,4.0,11,2022-07-11,2022-07-24,0.0,,41,188,45,0.0,6.0,95,40.0,375.0
+Other notifiable diseases,iGAS^,82,0.0,,5,11,0,0.0,30.0,6,2022-07-25,2022-08-07,0.0,,46,199,45,0.0,36.0,101,52.0,427.0
 Other notifiable diseases,RSV,83,,,4,61,2,,,234,2022-01-03,2022-01-16,,,4,61,2,,,234,301.0,301.0
 Other notifiable diseases,RSV^,83,,,0,38,2,,,151,2022-01-17,2022-01-30,,,4,99,4,,,385,191.0,492.0
 Other notifiable diseases,RSV^,83,,,2,16,1,,,142,2022-01-31,2022-02-13,,,6,115,5,,,527,161.0,653.0
@@ -1064,8 +1134,10 @@ Respiratory diseases,RSV^,83,130.0,,7,4439,83,,,29,2022-05-30,2022-06-12,199.0,,
 Respiratory diseases,RSV^,83,236.0,,41,4389,211,,,51,2022-06-13,2022-06-26,435.0,,63,15434,383,,,1026,4928.0,17341.0
 Respiratory diseases,RSV^,83,307.0,,34,3859,406,98.0,2905.0,165,2022-06-27,2022-07-10,742.0,,97,19293,789,98.0,2905.0,1191,7774.0,25115.0
 Respiratory diseases,RSV^,83,241.0,,64,3164,685,295.0,3302.0,599,2022-07-11,2022-07-24,983.0,,161,22457,1474,393.0,6207.0,1790,8350.0,33465.0
+Respiratory diseases,RSV^,83,121.0,,75,2336,854,388.0,2975.0,741,2022-07-25,2022-08-07,1104.0,,236,24793,2328,781.0,9182.0,2531,7490.0,40955.0
 Zoonoses,Monkeypox virus (MPXV) infection ++,84,0.0,1.0,0,0,0,0.0,1.0,0,2022-05-16,2022-05-29,0.0,1.0,0,0,0,0.0,1.0,0,2.0,2.0
 Zoonoses,Monkeypox virus (MPXV) infection ++,84,0.0,3.0,0,0,0,0.0,2.0,0,2022-05-30,2022-06-12,0.0,4.0,0,0,0,0.0,3.0,0,5.0,7.0
 Zoonoses,Monkeypox virus (MPXV) infection++,84,0.0,1.0,0,0,0,0.0,1.0,0,2022-06-13,2022-06-26,0.0,5.0,0,0,0,0.0,4.0,0,2.0,9.0
 Zoonoses,Monkeypox virus (MPXV) infection++,84,2.0,10.0,0,1,1,0.0,4.0,0,2022-06-27,2022-07-10,2.0,15.0,0,1,1,0.0,8.0,0,18.0,27.0
 Zoonoses,Monkeypox virus (MPXV) infection++,84,0.0,8.0,0,0,0,0.0,8.0,0,2022-07-11,2022-07-24,2.0,23.0,0,1,1,0.0,16.0,0,16.0,43.0
+Zoonoses,Monkeypox virus (MPXV) infection++,84,0.0,8.0,0,1,0,0.0,9.0,1,2022-07-25,2022-08-07,2.0,31.0,0,2,1,0.0,25.0,1,19.0,62.0
